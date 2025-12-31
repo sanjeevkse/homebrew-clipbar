@@ -2,7 +2,7 @@ cask "clipbar" do
   version "1.0.1"
   sha256 :no_check
 
-  url "https://github.com/sanjeevkse/ClipBar/releases/download/v#{version}/ClipBar-#{version}-unsigned.zip"
+  url "https://github.com/sanjeevkse/ClipBar/releases/download/v#{version}/ClipBar-#{version}-unsigned.zip?raw=1"
   name "ClipBar"
   desc "Lightweight macOS menu bar clipboard manager"
   homepage "https://github.com/sanjeevkse/ClipBar"
